@@ -1,0 +1,3 @@
+require("bagrorg")
+print("hello")
+
